@@ -3,8 +3,6 @@
 Independent iOS developer building small, privacy-conscious photo utilities.
 
 - [KamnevApps](https://kamnevapps.com/?utm_source=github&utm_medium=profile) — apps, free browser tools, support and privacy pages
-- [Framer templates by KamnevApps](https://www.framer.com/@vladimir-kamnev/) — explore free website designs for clubs, studios and local businesses.
-- [Build a font specimen in Framer](guides/counterform-type-specimen.md) — a practical Counterform guide to editable text, font weights and CMS setup.
 - [JamPhotos](https://kamnevapps.com/jamphotos/?utm_source=github&utm_medium=profile) — batch photo editing, collages, text and cutouts
 - [Metadata Remover](https://kamnevapps.com/exif-remover/?utm_source=github&utm_medium=profile) — remove EXIF and GPS data from photos
 - [SendShrink](https://kamnevapps.com/sendshrink/?utm_source=github&utm_medium=profile) — compress photos for upload limits
